@@ -1,0 +1,7 @@
+Study of ReactNative and React JS as a survey
+
+ReactNative:
+-> It has been around for about 2 years,and became a really interesting framework since it can be used for Android and let us build cross-platform mobile apps. A few contributors also customized the framework to build desktop apps for Mac and Windows.
+-> It is a Framework,When we start new project we notice that it is easy to setup and takes less time in running any command line in terminal.
+-> It doesnot use HTML to render the app,But provides alternative components that work in a similar way.Those components that map the actual real native iOS or android UI components that get rendered in the app.
+-> When we build a native app,it is important to know user interface and experience for iOS and android might need to be different.
